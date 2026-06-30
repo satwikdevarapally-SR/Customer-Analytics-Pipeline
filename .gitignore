@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# mac os
+.DS_Store
+
+# environments
+venv/
+.venv/
+env/
+
+# local artifacts
+artifacts/
